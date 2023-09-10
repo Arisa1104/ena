@@ -6,20 +6,20 @@ import { Helmet } from 'react-helmet'
 import NavigationLinks from '../components/navigation-links'
 import FeatureCard2 from '../components/feature-card2'
 import FeatureCard21 from '../components/feature-card21'
-import './ena-official-web-site-works.css'
+import './ena-official-site-works.css'
 
-const ENAOFFICIALWEBSITEWorks = (props) => {
+const ENAOFFICIALSITEWorks = (props) => {
   return (
-    <div className="enaofficialwebsit-works-container">
+    <div className="enaofficialsit-works-container">
       <Helmet>
-        <title>ENA-OFFICIAL-WEB-SITE-works - ENA OFFICIAL WEBSITE</title>
+        <title>ENA-OFFICIAL-SITE-works - ENA OFFICIAL WEBSITE</title>
         <meta
           name="description"
           content="歌手 ボーカル コーラス ENA・作詞家 ENA☆ のホームページ"
         />
         <meta
           property="og:title"
-          content="ENA-OFFICIAL-WEB-SITE-works - ENA OFFICIAL WEBSITE"
+          content="ENA-OFFICIAL-SITE-works - ENA OFFICIAL WEBSITE"
         />
         <meta
           property="og:description"
@@ -30,57 +30,57 @@ const ENAOFFICIALWEBSITEWorks = (props) => {
           content="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/5b42fbbc-0488-4237-b648-f63f8835f207/2dbca4f9-50b5-46c7-93d6-10becb8c4006?org_if_sml=1"
         />
       </Helmet>
-      <header data-role="Header" className="enaofficialwebsit-works-header">
-        <Link to="/" className="enaofficialwebsit-works-navlink">
+      <header data-role="Header" className="enaofficialsit-works-header">
+        <Link to="/" className="enaofficialsit-works-navlink">
           <img
             alt="logo"
-            src="/white%20pink%20minimalist%20podcast%20logo-2-200h.png"
-            className="enaofficialwebsit-works-image"
+            src="/playground_assets/white%20pink%20minimalist%20podcast%20logo-2-200h.png"
+            className="enaofficialsit-works-image"
           />
         </Link>
-        <div className="enaofficialwebsit-works-container1">
-          <div className="enaofficialwebsit-works-container2">
-            <div className="enaofficialwebsit-works-nav">
-              <NavigationLinks rootClassName="rootClassName21"></NavigationLinks>
+        <div className="enaofficialsit-works-container1">
+          <div className="enaofficialsit-works-container2">
+            <div className="enaofficialsit-works-nav">
+              <NavigationLinks rootClassName="rootClassName9"></NavigationLinks>
             </div>
           </div>
         </div>
         <div
           data-role="BurgerMenu"
-          className="enaofficialwebsit-works-burger-menu"
+          className="enaofficialsit-works-burger-menu"
         >
-          <svg viewBox="0 0 1024 1024" className="enaofficialwebsit-works-icon">
+          <svg viewBox="0 0 1024 1024" className="enaofficialsit-works-icon">
             <path d="M128 554.667h768c23.552 0 42.667-19.115 42.667-42.667s-19.115-42.667-42.667-42.667h-768c-23.552 0-42.667 19.115-42.667 42.667s19.115 42.667 42.667 42.667zM128 298.667h768c23.552 0 42.667-19.115 42.667-42.667s-19.115-42.667-42.667-42.667h-768c-23.552 0-42.667 19.115-42.667 42.667s19.115 42.667 42.667 42.667zM128 810.667h768c23.552 0 42.667-19.115 42.667-42.667s-19.115-42.667-42.667-42.667h-768c-23.552 0-42.667 19.115-42.667 42.667s19.115 42.667 42.667 42.667z"></path>
           </svg>
         </div>
         <div
           data-role="MobileMenu"
-          className="enaofficialwebsit-works-mobile-menu"
+          className="enaofficialsit-works-mobile-menu"
         >
-          <div className="enaofficialwebsit-works-nav1">
-            <div className="enaofficialwebsit-works-container3">
+          <div className="enaofficialsit-works-nav1">
+            <div className="enaofficialsit-works-container3">
               <div
                 data-role="CloseMobileMenu"
-                className="enaofficialwebsit-works-close-mobile-menu"
+                className="enaofficialsit-works-close-mobile-menu"
               >
                 <svg
                   viewBox="0 0 1024 1024"
-                  className="enaofficialwebsit-works-icon2"
+                  className="enaofficialsit-works-icon2"
                 >
                   <path d="M810 274l-238 238 238 238-60 60-238-238-238 238-60-60 238-238-238-238 60-60 238 238 238-238z"></path>
                 </svg>
               </div>
             </div>
-            <NavigationLinks rootClassName="rootClassName20"></NavigationLinks>
+            <NavigationLinks rootClassName="rootClassName8"></NavigationLinks>
           </div>
         </div>
       </header>
       <img
         alt="image"
-        src="/works-200h.png"
-        className="enaofficialwebsit-works-image1"
+        src="/playground_assets/works-200h.png"
+        className="enaofficialsit-works-image1"
       />
-      <label className="enaofficialwebsit-works-text">
+      <label className="enaofficialsit-works-text">
         <br></br>
         <span>メインボーカル</span>
         <br></br>
@@ -206,7 +206,7 @@ const ENAOFFICIALWEBSITEWorks = (props) => {
         description=" 東京を拠点に活動するギタリスト&amp;コンポーザー(Mosieur D.)最新作 デジタルシングル"
         rootClassName="rootClassName32"
       ></FeatureCard2>
-      <label className="enaofficialwebsit-works-text005">
+      <label className="enaofficialsit-works-text005">
         <br></br>
         <span>作詞</span>
         <br></br>
@@ -324,243 +324,219 @@ const ENAOFFICIALWEBSITEWorks = (props) => {
         description="1st アルバム　King&amp;Prince　収録"
         rootClassName="rootClassName21"
       ></FeatureCard2>
-      <FeatureCard2
-        year="2019"
-        title="生まれる願い"
-        artist="ウタ・アリィ"
-        link_text="https://recochoku.jp/album/A2001601297/album?ds=1008492112"
-        description="TVアニメフルーツバスケット 1st season 挿入歌"
-        rootClassName="rootClassName23"
-      ></FeatureCard2>
-      <FeatureCard2
-        year="2020"
-        title="馳せる未来"
-        artist="ウタ・アリィ"
-        link_text="https://recochoku.jp/song/S1010152584/"
-        description="TVアニメフルーツバスケット 2nd Season 挿入歌"
-        rootClassName="rootClassName33"
-      ></FeatureCard2>
-      <FeatureCard2
-        year="2021"
-        title="明日への境界線"
-        artist="雪花ラミィ"
-        link_text="https://www.youtube.com/watch?v=ULtGHb83pTI"
-        description="ホロライブ　雪花ラミィ初のオリジナル楽曲"
-        rootClassName="rootClassName34"
-      ></FeatureCard2>
-      <label className="enaofficialwebsit-works-text010">
+      <label className="enaofficialsit-works-text010">
         <br></br>
         <span>コーラス</span>
         <br></br>
         <br></br>
       </label>
-      <span className="enaofficialwebsit-works-text015">
-        <span className="enaofficialwebsit-works-text016">
+      <span className="enaofficialsit-works-text015">
+        <span className="enaofficialsit-works-text016">
           竹内まりや「seize the
           day　今を生きよう」「恋、はじめまして」「ファースト・デイト」「夏のイントロ」
         </span>
-        <br className="enaofficialwebsit-works-text017"></br>
-        <span className="enaofficialwebsit-works-text018">
+        <br className="enaofficialsit-works-text017"></br>
+        <span className="enaofficialsit-works-text018">
           渡辺麻友(AKB48)「未来の恋人」 
         </span>
-        <span className="enaofficialwebsit-works-text019">
+        <span className="enaofficialsit-works-text019">
           NEWS「Digital Love」(コーラスアレンジ含む)
         </span>
-        <br className="enaofficialwebsit-works-text020"></br>
-        <span className="enaofficialwebsit-works-text021">
+        <br className="enaofficialsit-works-text020"></br>
+        <span className="enaofficialsit-works-text021">
           橋本良亮(A.B.C-Z) 「Love To Love You」 
         </span>
-        <span className="enaofficialwebsit-works-text022">
+        <span className="enaofficialsit-works-text022">
           ジャニーズWEST「僕ら今日も生きている」
         </span>
-        <br className="enaofficialwebsit-works-text023"></br>
-        <span className="enaofficialwebsit-works-text024">
+        <br className="enaofficialsit-works-text023"></br>
+        <span className="enaofficialsit-works-text024">
           ももいろクローバーZ「Chaimaxx」「D&apos;の純情」「DNA狂詩曲」「空のカーテン」「上球物語」「JUMP!!!!!」
         </span>
-        <br className="enaofficialwebsit-works-text025"></br>
-        <span className="enaofficialwebsit-works-text026">
+        <br className="enaofficialsit-works-text025"></br>
+        <span className="enaofficialsit-works-text026">
           藤井フミヤ「今さらI want you」
         </span>
-        <br className="enaofficialwebsit-works-text027"></br>
-        <span className="enaofficialwebsit-works-text028">
+        <br className="enaofficialsit-works-text027"></br>
+        <span className="enaofficialsit-works-text028">
           榊原ゆい、いとうかなこ、Zwei、アフィリア・サーガ、増田有華(AKB48)、三浦涼介、彩音、今井麻美
         </span>
         <br></br>
       </span>
       <div
         data-thq="thq-dropdown"
-        className="enaofficialwebsit-works-thq-dropdown list-item"
+        className="enaofficialsit-works-thq-dropdown list-item"
       >
         <ul
           data-thq="thq-dropdown-list"
-          className="enaofficialwebsit-works-dropdown-list"
+          className="enaofficialsit-works-dropdown-list"
         >
           <li
             data-thq="thq-dropdown"
-            className="enaofficialwebsit-works-dropdown list-item"
+            className="enaofficialsit-works-dropdown list-item"
           >
             <div
               data-thq="thq-dropdown-toggle"
-              className="enaofficialwebsit-works-dropdown-toggle"
+              className="enaofficialsit-works-dropdown-toggle"
             >
-              <span className="enaofficialwebsit-works-text030">
+              <span className="enaofficialsit-works-text030">
                 Sub-menu Item
               </span>
             </div>
           </li>
           <li
             data-thq="thq-dropdown"
-            className="enaofficialwebsit-works-dropdown1 list-item"
+            className="enaofficialsit-works-dropdown1 list-item"
           >
             <div
               data-thq="thq-dropdown-toggle"
-              className="enaofficialwebsit-works-dropdown-toggle1"
+              className="enaofficialsit-works-dropdown-toggle1"
             >
-              <span className="enaofficialwebsit-works-text031">
+              <span className="enaofficialsit-works-text031">
                 Sub-menu Item
               </span>
             </div>
           </li>
           <li
             data-thq="thq-dropdown"
-            className="enaofficialwebsit-works-dropdown2 list-item"
+            className="enaofficialsit-works-dropdown2 list-item"
           >
             <div
               data-thq="thq-dropdown-toggle"
-              className="enaofficialwebsit-works-dropdown-toggle2"
+              className="enaofficialsit-works-dropdown-toggle2"
             >
-              <span className="enaofficialwebsit-works-text032">
+              <span className="enaofficialsit-works-text032">
                 Sub-menu Item
               </span>
             </div>
           </li>
         </ul>
       </div>
-      <label className="enaofficialwebsit-works-text033">
+      <label className="enaofficialsit-works-text033">
         <br></br>
         <span>劇判コーラス</span>
         <br></br>
         <br></br>
       </label>
-      <span className="enaofficialwebsit-works-text038">
-        <span className="enaofficialwebsit-works-text039">
+      <span className="enaofficialsit-works-text038">
+        <span className="enaofficialsit-works-text039">
           テレビドラマ「TAXMEN」「蜜の味～A Taste of
           Honey」「ホワイトラボ」「ウロボロス」「＃家族募集します」
         </span>
-        <br className="enaofficialwebsit-works-text040"></br>
-        <span className="enaofficialwebsit-works-text041">
+        <br className="enaofficialsit-works-text040"></br>
+        <span className="enaofficialsit-works-text041">
           テレビアニメ　「荒川アンダーザブリッジ」「荒川アンダーザブリッジx2」「銀魂」「orange」「うる星やつら」
         </span>
-        <br className="enaofficialwebsit-works-text042"></br>
-        <span className="enaofficialwebsit-works-text043">
+        <br className="enaofficialsit-works-text042"></br>
+        <span className="enaofficialsit-works-text043">
           映画「ヒロイン失格」「最高の人生の見つけ方」
         </span>
         <br></br>
       </span>
       <ul className="list"></ul>
-      <label className="enaofficialwebsit-works-text045">
+      <label className="enaofficialsit-works-text045">
         <br></br>
         <span>コンサート＆ライブ＆テレビ出演</span>
         <br></br>
         <br></br>
       </label>
-      <span className="enaofficialwebsit-works-text050">
-        <span className="enaofficialwebsit-works-text051">
+      <span className="enaofficialsit-works-text050">
+        <span className="enaofficialsit-works-text051">
           山下達郎　Performanceツアー
         </span>
-        <span className="enaofficialwebsit-works-text052">（2015年〜）</span>
-        <br className="enaofficialwebsit-works-text053"></br>
-        <span className="enaofficialwebsit-works-text054">
+        <span className="enaofficialsit-works-text052">（2015年〜）</span>
+        <br className="enaofficialsit-works-text053"></br>
+        <span className="enaofficialsit-works-text054">
           スーパーゲームソングライブ　
         </span>
-        <span className="enaofficialwebsit-works-text055">
+        <span className="enaofficialsit-works-text055">
           2012 -NEW GAME-　＠パシフィコ横浜
         </span>
-        <span className="enaofficialwebsit-works-text056">（2012年）</span>
-        <br className="enaofficialwebsit-works-text057"></br>
-        <span className="enaofficialwebsit-works-text058">
+        <span className="enaofficialsit-works-text056">（2012年）</span>
+        <br className="enaofficialsit-works-text057"></br>
+        <span className="enaofficialsit-works-text058">
           中村繪里子「らららなかむランド」＠
         </span>
-        <span className="enaofficialwebsit-works-text059">
+        <span className="enaofficialsit-works-text059">
           相模女子大学グリーンホール
         </span>
-        <span className="enaofficialwebsit-works-text060">（2015年）</span>
-        <br className="enaofficialwebsit-works-text061"></br>
-        <span className="enaofficialwebsit-works-text062">
+        <span className="enaofficialsit-works-text060">（2015年）</span>
+        <br className="enaofficialsit-works-text061"></br>
+        <span className="enaofficialsit-works-text062">
           EPO × 佐橋佳幸 × 清水信之「おとな文化祭」＠ビルボード東京＆大阪
         </span>
-        <span className="enaofficialwebsit-works-text063">（2018年）</span>
-        <br className="enaofficialwebsit-works-text064"></br>
-        <span className="enaofficialwebsit-works-text065">花澤香菜　</span>
-        <span className="enaofficialwebsit-works-text066">
+        <span className="enaofficialsit-works-text063">（2018年）</span>
+        <br className="enaofficialsit-works-text064"></br>
+        <span className="enaofficialsit-works-text065">花澤香菜　</span>
+        <span className="enaofficialsit-works-text066">
           {' '}
           -KANA HANAZAWA Concert 2018 &quot;Spring will come soon&quot; &amp;
            &quot;大丈夫&quot;
         </span>
-        <span className="enaofficialwebsit-works-text067">（2018年）</span>
-        <br className="enaofficialwebsit-works-text068"></br>
-        <span className="enaofficialwebsit-works-text069">
+        <span className="enaofficialsit-works-text067">（2018年）</span>
+        <br className="enaofficialsit-works-text068"></br>
+        <span className="enaofficialsit-works-text069">
           あの素晴らしい歌をもう一度コンサート　in　武道館
         </span>
-        <span className="enaofficialwebsit-works-text070">（2018年）</span>
-        <br className="enaofficialwebsit-works-text071"></br>
-        <span className="enaofficialwebsit-works-text072">坂本真綾　</span>
-        <span className="enaofficialwebsit-works-text073">
+        <span className="enaofficialsit-works-text070">（2018年）</span>
+        <br className="enaofficialsit-works-text071"></br>
+        <span className="enaofficialsit-works-text072">坂本真綾　</span>
+        <span className="enaofficialsit-works-text073">
           LIVE TOUR 2019「今日だけの音楽」
         </span>
-        <span className="enaofficialwebsit-works-text074">（2019年）</span>
-        <br className="enaofficialwebsit-works-text075"></br>
-        <span className="enaofficialwebsit-works-text076">声優紅白歌合戦</span>
-        <span className="enaofficialwebsit-works-text077">（2021年）　</span>
-        <span className="enaofficialwebsit-works-text078">
+        <span className="enaofficialsit-works-text074">（2019年）</span>
+        <br className="enaofficialsit-works-text075"></br>
+        <span className="enaofficialsit-works-text076">声優紅白歌合戦</span>
+        <span className="enaofficialsit-works-text077">（2021年）　</span>
+        <span className="enaofficialsit-works-text078">
           サウンドインS　池田エライザ　バックコーラス（2021年）
         </span>
         <br></br>
       </span>
-      <label className="enaofficialwebsit-works-text080">
+      <label className="enaofficialsit-works-text080">
         <br></br>
         <span>CM歌唱歴</span>
         <br></br>
         <br></br>
       </label>
-      <span className="enaofficialwebsit-works-text085">
-        <span className="enaofficialwebsit-works-text086">
+      <span className="enaofficialsit-works-text085">
+        <span className="enaofficialsit-works-text086">
           大塚ベバレジMATCH、ポリデント、ポリグリップ、HOYU rexy
         </span>
-        <br className="enaofficialwebsit-works-text087"></br>
-        <span className="enaofficialwebsit-works-text088">
+        <br className="enaofficialsit-works-text087"></br>
+        <span className="enaofficialsit-works-text088">
           神奈川工科大学　PLAY編　（作・編曲含む）、ワコール　シャキっとブラ、東ハトパイクロ
         </span>
-        <br className="enaofficialwebsit-works-text089"></br>
-        <span className="enaofficialwebsit-works-text090">
+        <br className="enaofficialsit-works-text089"></br>
+        <span className="enaofficialsit-works-text090">
           株式会社DISCO（歌唱＆CM出演）、リプトン、ニチバン、さがみ典礼
         </span>
-        <br className="enaofficialwebsit-works-text091"></br>
-        <span className="enaofficialwebsit-works-text092">
+        <br className="enaofficialsit-works-text091"></br>
+        <span className="enaofficialsit-works-text092">
           BAN(歌・ナレーション)、8×4、めちゃコミック、7&amp;iハッピーデイ、ひらかたパーク
         </span>
         <br></br>
       </span>
-      <label className="enaofficialwebsit-works-text094">
+      <label className="enaofficialsit-works-text094">
         <br></br>
         <span>ボイストレーナー歴</span>
         <br></br>
         <br></br>
       </label>
-      <span className="enaofficialwebsit-works-text099">
-        <span className="enaofficialwebsit-works-text100">
+      <span className="enaofficialsit-works-text099">
+        <span className="enaofficialsit-works-text100">
           復活！ミニスカポリス、リエコランド、種田梨沙(声優)、岡本菜摘(第6回アニソングランプリ優勝)
         </span>
-        <br className="enaofficialwebsit-works-text101"></br>
-        <span className="enaofficialwebsit-works-text102">
+        <br className="enaofficialsit-works-text101"></br>
+        <span className="enaofficialsit-works-text102">
           内田真礼(声優)、仁藤萌乃、楠田亜衣奈（声優）、CHiCO、halca、SHONO他
         </span>
-        <br className="enaofficialwebsit-works-text103"></br>
+        <br className="enaofficialsit-works-text103"></br>
         <br></br>
       </span>
-      <footer className="enaofficialwebsit-works-footer">
-        <span className="enaofficialwebsit-works-text105">
-          <span className="enaofficialwebsit-works-text106">2023　©　ENA</span>
+      <footer className="enaofficialsit-works-footer">
+        <span className="enaofficialsit-works-text105">
+          <span className="enaofficialsit-works-text106">2023　©　ENA</span>
           <br></br>
         </span>
       </footer>
@@ -568,4 +544,4 @@ const ENAOFFICIALWEBSITEWorks = (props) => {
   )
 }
 
-export default ENAOFFICIALWEBSITEWorks
+export default ENAOFFICIALSITEWorks

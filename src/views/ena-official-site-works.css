@@ -1,4 +1,4 @@
-.enaofficialwebsit-works-container {
+.enaofficialsit-works-container {
   width: 100%;
   display: flex;
   overflow: auto;
@@ -7,7 +7,7 @@
   flex-direction: column;
   background-image: linear-gradient(to right, #c2e59c 0%, #64b3f4 100%);
 }
-.enaofficialwebsit-works-header {
+.enaofficialsit-works-header {
   width: 100%;
   height: auto;
   display: flex;
@@ -16,17 +16,17 @@
   justify-content: space-between;
   background-color: var(--dl-color-gray-white);
 }
-.enaofficialwebsit-works-navlink {
+.enaofficialsit-works-navlink {
   display: contents;
 }
-.enaofficialwebsit-works-image {
+.enaofficialsit-works-image {
   width: 138px;
   height: 133px;
   margin-left: 10px;
   margin-right: 10px;
   text-decoration: none;
 }
-.enaofficialwebsit-works-container1 {
+.enaofficialsit-works-container1 {
   flex: 0 0 auto;
   width: auto;
   height: auto;
@@ -34,7 +34,7 @@
   align-items: space-between;
   flex-direction: column;
 }
-.enaofficialwebsit-works-container2 {
+.enaofficialsit-works-container2 {
   flex: 0 0 auto;
   width: auto;
   height: auto;
@@ -42,21 +42,21 @@
   align-items: space-between;
   flex-direction: column;
 }
-.enaofficialwebsit-works-nav {
+.enaofficialsit-works-nav {
   flex: 0 0 auto;
   display: flex;
   align-items: center;
   flex-direction: row;
 }
-.enaofficialwebsit-works-burger-menu {
+.enaofficialsit-works-burger-menu {
   display: none;
 }
-.enaofficialwebsit-works-icon {
+.enaofficialsit-works-icon {
   width: var(--dl-size-size-xsmall);
   height: var(--dl-size-size-xsmall);
   display: flex;
 }
-.enaofficialwebsit-works-mobile-menu {
+.enaofficialsit-works-mobile-menu {
   top: 0px;
   left: 0px;
   width: 100%;
@@ -69,50 +69,50 @@
   justify-content: space-between;
   background-color: #fff;
 }
-.enaofficialwebsit-works-nav1 {
+.enaofficialsit-works-nav1 {
   display: flex;
   align-items: flex-start;
   flex-direction: column;
 }
-.enaofficialwebsit-works-container3 {
+.enaofficialsit-works-container3 {
   width: 100%;
   display: flex;
   align-items: center;
   margin-bottom: var(--dl-space-space-threeunits);
   justify-content: space-between;
 }
-.enaofficialwebsit-works-close-mobile-menu {
+.enaofficialsit-works-close-mobile-menu {
   display: flex;
   align-items: center;
   justify-content: center;
 }
-.enaofficialwebsit-works-icon2 {
+.enaofficialsit-works-icon2 {
   width: var(--dl-size-size-xsmall);
   height: var(--dl-size-size-xsmall);
 }
-.enaofficialwebsit-works-image1 {
+.enaofficialsit-works-image1 {
   width: 180px;
   align-self: center;
   margin-top: 10px;
   object-fit: cover;
   margin-right: 15px;
 }
-.enaofficialwebsit-works-text {
+.enaofficialsit-works-text {
   font-size: 20px;
   align-self: center;
   font-family: Shippori Antique;
 }
-.enaofficialwebsit-works-text005 {
+.enaofficialsit-works-text005 {
   font-size: 20px;
   align-self: center;
   font-family: Shippori Antique;
 }
-.enaofficialwebsit-works-text010 {
+.enaofficialsit-works-text010 {
   font-size: 20px;
   align-self: center;
   font-family: Shippori Antique;
 }
-.enaofficialwebsit-works-text015 {
+.enaofficialsit-works-text015 {
   font-size: 14px;
   align-self: center;
   text-align: left;
@@ -121,37 +121,37 @@
   margin-left: 0px;
   letter-spacing: 1px;
 }
-.enaofficialwebsit-works-text016 {
+.enaofficialsit-works-text016 {
   color: #000000;
 }
-.enaofficialwebsit-works-text018 {
+.enaofficialsit-works-text018 {
   color: #000000;
 }
-.enaofficialwebsit-works-text019 {
+.enaofficialsit-works-text019 {
   color: #000000;
 }
-.enaofficialwebsit-works-text021 {
+.enaofficialsit-works-text021 {
   color: #000000;
 }
-.enaofficialwebsit-works-text022 {
+.enaofficialsit-works-text022 {
   color: #000000;
 }
-.enaofficialwebsit-works-text024 {
+.enaofficialsit-works-text024 {
   color: #000000;
 }
-.enaofficialwebsit-works-text026 {
+.enaofficialsit-works-text026 {
   color: #000000;
 }
-.enaofficialwebsit-works-text028 {
+.enaofficialsit-works-text028 {
   color: #000000;
 }
-.enaofficialwebsit-works-thq-dropdown {
+.enaofficialsit-works-thq-dropdown {
   cursor: pointer;
   display: inline-block;
   position: relative;
   border-radius: var(--dl-radius-radius-radius2);
 }
-.enaofficialwebsit-works-dropdown-list {
+.enaofficialsit-works-dropdown-list {
   left: 0%;
   width: max-content;
   display: none;
@@ -168,13 +168,13 @@
   background-color: var(--dl-color-gray-white);
   list-style-position: inside;
 }
-.enaofficialwebsit-works-dropdown {
+.enaofficialsit-works-dropdown {
   cursor: pointer;
   display: inline-block;
   position: relative;
   border-radius: var(--dl-radius-radius-radius2);
 }
-.enaofficialwebsit-works-dropdown-toggle {
+.enaofficialsit-works-dropdown-toggle {
   fill: #595959;
   color: #595959;
   width: 100%;
@@ -187,12 +187,12 @@
   padding-right: var(--dl-space-space-unit);
   padding-bottom: var(--dl-space-space-halfunit);
 }
-.enaofficialwebsit-works-dropdown-toggle:hover {
+.enaofficialsit-works-dropdown-toggle:hover {
   fill: #fff;
   color: #fff;
   background-color: #595959;
 }
-.enaofficialwebsit-works-text030 {
+.enaofficialsit-works-text030 {
   width: 100%;
   cursor: pointer;
   display: flex;
@@ -200,13 +200,13 @@
   font-style: normal;
   font-weight: 500;
 }
-.enaofficialwebsit-works-dropdown1 {
+.enaofficialsit-works-dropdown1 {
   cursor: pointer;
   display: inline-block;
   position: relative;
   border-radius: var(--dl-radius-radius-radius2);
 }
-.enaofficialwebsit-works-dropdown-toggle1 {
+.enaofficialsit-works-dropdown-toggle1 {
   fill: #595959;
   color: #595959;
   width: 100%;
@@ -219,12 +219,12 @@
   padding-right: var(--dl-space-space-unit);
   padding-bottom: var(--dl-space-space-halfunit);
 }
-.enaofficialwebsit-works-dropdown-toggle1:hover {
+.enaofficialsit-works-dropdown-toggle1:hover {
   fill: #fff;
   color: #fff;
   background-color: #595959;
 }
-.enaofficialwebsit-works-text031 {
+.enaofficialsit-works-text031 {
   width: 100%;
   cursor: pointer;
   display: flex;
@@ -232,13 +232,13 @@
   font-style: normal;
   font-weight: 500;
 }
-.enaofficialwebsit-works-dropdown2 {
+.enaofficialsit-works-dropdown2 {
   cursor: pointer;
   display: inline-block;
   position: relative;
   border-radius: var(--dl-radius-radius-radius2);
 }
-.enaofficialwebsit-works-dropdown-toggle2 {
+.enaofficialsit-works-dropdown-toggle2 {
   fill: #595959;
   color: #595959;
   width: 100%;
@@ -251,12 +251,12 @@
   padding-right: var(--dl-space-space-unit);
   padding-bottom: var(--dl-space-space-halfunit);
 }
-.enaofficialwebsit-works-dropdown-toggle2:hover {
+.enaofficialsit-works-dropdown-toggle2:hover {
   fill: #fff;
   color: #fff;
   background-color: #595959;
 }
-.enaofficialwebsit-works-text032 {
+.enaofficialsit-works-text032 {
   width: 100%;
   cursor: pointer;
   display: flex;
@@ -264,12 +264,12 @@
   font-style: normal;
   font-weight: 500;
 }
-.enaofficialwebsit-works-text033 {
+.enaofficialsit-works-text033 {
   font-size: 20px;
   align-self: center;
   font-family: Shippori Antique;
 }
-.enaofficialwebsit-works-text038 {
+.enaofficialsit-works-text038 {
   font-size: 14px;
   align-self: center;
   text-align: left;
@@ -278,21 +278,21 @@
   margin-left: 0px;
   letter-spacing: 1px;
 }
-.enaofficialwebsit-works-text039 {
+.enaofficialsit-works-text039 {
   color: #000000;
 }
-.enaofficialwebsit-works-text041 {
+.enaofficialsit-works-text041 {
   color: #000000;
 }
-.enaofficialwebsit-works-text043 {
+.enaofficialsit-works-text043 {
   color: #000000;
 }
-.enaofficialwebsit-works-text045 {
+.enaofficialsit-works-text045 {
   font-size: 20px;
   align-self: center;
   font-family: Shippori Antique;
 }
-.enaofficialwebsit-works-text050 {
+.enaofficialsit-works-text050 {
   font-size: 14px;
   align-self: center;
   font-family: Shippori Antique;
@@ -300,63 +300,63 @@
   margin-left: 0px;
   letter-spacing: 1px;
 }
-.enaofficialwebsit-works-text051 {
+.enaofficialsit-works-text051 {
   color: var(--dl-color-gray-black);
 }
-.enaofficialwebsit-works-text052 {
+.enaofficialsit-works-text052 {
   color: var(--dl-color-gray-black);
 }
-.enaofficialwebsit-works-text054 {
+.enaofficialsit-works-text054 {
   color: var(--dl-color-gray-black);
 }
-.enaofficialwebsit-works-text056 {
+.enaofficialsit-works-text056 {
   color: var(--dl-color-gray-black);
 }
-.enaofficialwebsit-works-text058 {
+.enaofficialsit-works-text058 {
   color: var(--dl-color-gray-black);
 }
-.enaofficialwebsit-works-text060 {
+.enaofficialsit-works-text060 {
   color: var(--dl-color-gray-black);
 }
-.enaofficialwebsit-works-text062 {
+.enaofficialsit-works-text062 {
   color: var(--dl-color-gray-black);
 }
-.enaofficialwebsit-works-text063 {
+.enaofficialsit-works-text063 {
   color: var(--dl-color-gray-black);
 }
-.enaofficialwebsit-works-text065 {
+.enaofficialsit-works-text065 {
   color: var(--dl-color-gray-black);
 }
-.enaofficialwebsit-works-text067 {
+.enaofficialsit-works-text067 {
   color: var(--dl-color-gray-black);
 }
-.enaofficialwebsit-works-text069 {
+.enaofficialsit-works-text069 {
   color: var(--dl-color-gray-black);
 }
-.enaofficialwebsit-works-text070 {
+.enaofficialsit-works-text070 {
   color: var(--dl-color-gray-black);
 }
-.enaofficialwebsit-works-text072 {
+.enaofficialsit-works-text072 {
   color: var(--dl-color-gray-black);
 }
-.enaofficialwebsit-works-text074 {
+.enaofficialsit-works-text074 {
   color: var(--dl-color-gray-black);
 }
-.enaofficialwebsit-works-text076 {
+.enaofficialsit-works-text076 {
   color: var(--dl-color-gray-black);
 }
-.enaofficialwebsit-works-text077 {
+.enaofficialsit-works-text077 {
   color: var(--dl-color-gray-black);
 }
-.enaofficialwebsit-works-text078 {
+.enaofficialsit-works-text078 {
   color: var(--dl-color-gray-black);
 }
-.enaofficialwebsit-works-text080 {
+.enaofficialsit-works-text080 {
   font-size: 20px;
   align-self: center;
   font-family: Shippori Antique;
 }
-.enaofficialwebsit-works-text085 {
+.enaofficialsit-works-text085 {
   font-size: 14px;
   align-self: center;
   font-family: Shippori Antique;
@@ -364,24 +364,24 @@
   margin-left: 0px;
   letter-spacing: 1px;
 }
-.enaofficialwebsit-works-text086 {
+.enaofficialsit-works-text086 {
   color: #000000;
 }
-.enaofficialwebsit-works-text088 {
+.enaofficialsit-works-text088 {
   color: #000000;
 }
-.enaofficialwebsit-works-text090 {
+.enaofficialsit-works-text090 {
   color: #000000;
 }
-.enaofficialwebsit-works-text092 {
+.enaofficialsit-works-text092 {
   color: #000000;
 }
-.enaofficialwebsit-works-text094 {
+.enaofficialsit-works-text094 {
   font-size: 20px;
   align-self: center;
   font-family: Shippori Antique;
 }
-.enaofficialwebsit-works-text099 {
+.enaofficialsit-works-text099 {
   font-size: 14px;
   align-self: center;
   font-family: Shippori Antique;
@@ -389,13 +389,13 @@
   margin-left: 0px;
   letter-spacing: 1px;
 }
-.enaofficialwebsit-works-text100 {
+.enaofficialsit-works-text100 {
   color: #080808;
 }
-.enaofficialwebsit-works-text102 {
+.enaofficialsit-works-text102 {
   color: #080808;
 }
-.enaofficialwebsit-works-footer {
+.enaofficialsit-works-footer {
   width: 100%;
   height: auto;
   display: flex;
@@ -407,85 +407,68 @@
   justify-content: center;
   background-color: var(--dl-color-gray-white);
 }
-.enaofficialwebsit-works-text105 {
+.enaofficialsit-works-text105 {
   color: #094bfb;
   font-family: Yuji Syuku;
 }
 @media(max-width: 991px) {
-  .enaofficialwebsit-works-header {
-    background-color: var(--dl-color-gray-white);
-  }
-  .enaofficialwebsit-works-text015 {
+  .enaofficialsit-works-text015 {
     margin-left: 0px;
   }
-  .enaofficialwebsit-works-text038 {
+  .enaofficialsit-works-text038 {
     margin-left: 0px;
   }
-  .enaofficialwebsit-works-text050 {
+  .enaofficialsit-works-text050 {
     margin-left: 0px;
   }
-  .enaofficialwebsit-works-text085 {
+  .enaofficialsit-works-text085 {
     margin-left: 0px;
   }
-  .enaofficialwebsit-works-text099 {
+  .enaofficialsit-works-text099 {
     font-size: 15px;
     font-family: Shippori Antique;
     line-height: 2;
     margin-left: 0px;
     letter-spacing: 1px;
   }
-  .enaofficialwebsit-works-text100 {
+  .enaofficialsit-works-text100 {
     color: #080808;
   }
-  .enaofficialwebsit-works-text101 {
+  .enaofficialsit-works-text101 {
     color: #080808;
   }
-  .enaofficialwebsit-works-text102 {
+  .enaofficialsit-works-text102 {
     color: #080808;
   }
-  .enaofficialwebsit-works-footer {
+  .enaofficialsit-works-footer {
     height: auto;
     background-color: var(--dl-color-gray-white);
   }
 }
 @media(max-width: 767px) {
-  .enaofficialwebsit-works-header {
+  .enaofficialsit-works-header {
     padding-left: var(--dl-space-space-twounits);
     padding-right: var(--dl-space-space-twounits);
+    background-color: var(--dl-color-gray-white);
   }
-  .enaofficialwebsit-works-image {
+  .enaofficialsit-works-image {
     margin-left: 0px;
     margin-right: 0px;
   }
-  .enaofficialwebsit-works-nav {
+  .enaofficialsit-works-nav {
     display: none;
   }
-  .enaofficialwebsit-works-burger-menu {
+  .enaofficialsit-works-burger-menu {
     display: flex;
     align-items: center;
     justify-content: center;
   }
-  .enaofficialwebsit-works-icon {
+  .enaofficialsit-works-icon {
     fill: #094bfb;
     width: var(--dl-size-size-small);
     height: var(--dl-size-size-small);
   }
-  .enaofficialwebsit-works-mobile-menu {
-    height: auto;
-    display: none;
-  }
-  .enaofficialwebsit-works-nav1 {
-    align-items: center;
-  }
-  .enaofficialwebsit-works-container3 {
-    margin-bottom: 20px;
-  }
-  .enaofficialwebsit-works-icon2 {
-    fill: #094bfb;
-    width: 30px;
-    height: 30px;
-  }
-  .enaofficialwebsit-works-text015 {
+  .enaofficialsit-works-text015 {
     font-size: 14px;
     font-family: Shippori Antique;
     line-height: 2;
@@ -493,59 +476,59 @@
     margin-right: 2%;
     letter-spacing: 1px;
   }
-  .enaofficialwebsit-works-text016 {
+  .enaofficialsit-works-text016 {
     color: #000000;
     font-size: 11px;
   }
-  .enaofficialwebsit-works-text017 {
+  .enaofficialsit-works-text017 {
     color: #000000;
     font-size: 11px;
   }
-  .enaofficialwebsit-works-text018 {
+  .enaofficialsit-works-text018 {
     color: #000000;
     font-size: 11px;
   }
-  .enaofficialwebsit-works-text019 {
+  .enaofficialsit-works-text019 {
     color: #000000;
     font-size: 11px;
   }
-  .enaofficialwebsit-works-text020 {
+  .enaofficialsit-works-text020 {
     color: #000000;
     font-size: 11px;
   }
-  .enaofficialwebsit-works-text021 {
+  .enaofficialsit-works-text021 {
     color: #000000;
     font-size: 11px;
   }
-  .enaofficialwebsit-works-text022 {
+  .enaofficialsit-works-text022 {
     color: #000000;
     font-size: 11px;
   }
-  .enaofficialwebsit-works-text023 {
+  .enaofficialsit-works-text023 {
     color: #000000;
     font-size: 11px;
   }
-  .enaofficialwebsit-works-text024 {
+  .enaofficialsit-works-text024 {
     color: #000000;
     font-size: 11px;
   }
-  .enaofficialwebsit-works-text025 {
+  .enaofficialsit-works-text025 {
     color: #000000;
     font-size: 11px;
   }
-  .enaofficialwebsit-works-text026 {
+  .enaofficialsit-works-text026 {
     color: #000000;
     font-size: 11px;
   }
-  .enaofficialwebsit-works-text027 {
+  .enaofficialsit-works-text027 {
     color: #000000;
     font-size: 11px;
   }
-  .enaofficialwebsit-works-text028 {
+  .enaofficialsit-works-text028 {
     color: #000000;
     font-size: 11px;
   }
-  .enaofficialwebsit-works-text038 {
+  .enaofficialsit-works-text038 {
     font-size: 14px;
     font-family: Shippori Antique;
     line-height: 2;
@@ -553,27 +536,27 @@
     margin-right: 2%;
     letter-spacing: 1px;
   }
-  .enaofficialwebsit-works-text039 {
+  .enaofficialsit-works-text039 {
     color: #000000;
     font-size: 11px;
   }
-  .enaofficialwebsit-works-text040 {
+  .enaofficialsit-works-text040 {
     color: #000000;
     font-size: 11px;
   }
-  .enaofficialwebsit-works-text041 {
+  .enaofficialsit-works-text041 {
     color: #000000;
     font-size: 11px;
   }
-  .enaofficialwebsit-works-text042 {
+  .enaofficialsit-works-text042 {
     color: #000000;
     font-size: 11px;
   }
-  .enaofficialwebsit-works-text043 {
+  .enaofficialsit-works-text043 {
     color: #000000;
     font-size: 11px;
   }
-  .enaofficialwebsit-works-text050 {
+  .enaofficialsit-works-text050 {
     font-size: 14px;
     font-family: Shippori Antique;
     line-height: 2;
@@ -581,115 +564,115 @@
     margin-right: 2%;
     letter-spacing: 1px;
   }
-  .enaofficialwebsit-works-text051 {
+  .enaofficialsit-works-text051 {
     color: var(--dl-color-gray-black);
     font-size: 11px;
   }
-  .enaofficialwebsit-works-text052 {
+  .enaofficialsit-works-text052 {
     color: var(--dl-color-gray-black);
     font-size: 11px;
   }
-  .enaofficialwebsit-works-text053 {
+  .enaofficialsit-works-text053 {
     color: var(--dl-color-gray-black);
     font-size: 11px;
   }
-  .enaofficialwebsit-works-text054 {
+  .enaofficialsit-works-text054 {
     color: var(--dl-color-gray-black);
     font-size: 11px;
   }
-  .enaofficialwebsit-works-text055 {
+  .enaofficialsit-works-text055 {
     font-size: 11px;
   }
-  .enaofficialwebsit-works-text056 {
+  .enaofficialsit-works-text056 {
     color: var(--dl-color-gray-black);
     font-size: 11px;
   }
-  .enaofficialwebsit-works-text057 {
+  .enaofficialsit-works-text057 {
     color: var(--dl-color-gray-black);
     font-size: 11px;
   }
-  .enaofficialwebsit-works-text058 {
+  .enaofficialsit-works-text058 {
     color: var(--dl-color-gray-black);
     font-size: 11px;
   }
-  .enaofficialwebsit-works-text059 {
+  .enaofficialsit-works-text059 {
     font-size: 11px;
   }
-  .enaofficialwebsit-works-text060 {
+  .enaofficialsit-works-text060 {
     color: var(--dl-color-gray-black);
     font-size: 11px;
   }
-  .enaofficialwebsit-works-text061 {
+  .enaofficialsit-works-text061 {
     color: var(--dl-color-gray-black);
     font-size: 11px;
   }
-  .enaofficialwebsit-works-text062 {
+  .enaofficialsit-works-text062 {
     color: var(--dl-color-gray-black);
     font-size: 11px;
   }
-  .enaofficialwebsit-works-text063 {
+  .enaofficialsit-works-text063 {
     color: var(--dl-color-gray-black);
     font-size: 11px;
   }
-  .enaofficialwebsit-works-text064 {
+  .enaofficialsit-works-text064 {
     color: var(--dl-color-gray-black);
     font-size: 11px;
   }
-  .enaofficialwebsit-works-text065 {
+  .enaofficialsit-works-text065 {
     color: var(--dl-color-gray-black);
     font-size: 11px;
   }
-  .enaofficialwebsit-works-text066 {
+  .enaofficialsit-works-text066 {
     font-size: 11px;
   }
-  .enaofficialwebsit-works-text067 {
+  .enaofficialsit-works-text067 {
     color: var(--dl-color-gray-black);
     font-size: 11px;
   }
-  .enaofficialwebsit-works-text068 {
+  .enaofficialsit-works-text068 {
     color: var(--dl-color-gray-black);
     font-size: 11px;
   }
-  .enaofficialwebsit-works-text069 {
+  .enaofficialsit-works-text069 {
     color: var(--dl-color-gray-black);
     font-size: 11px;
   }
-  .enaofficialwebsit-works-text070 {
+  .enaofficialsit-works-text070 {
     color: var(--dl-color-gray-black);
     font-size: 11px;
   }
-  .enaofficialwebsit-works-text071 {
+  .enaofficialsit-works-text071 {
     color: var(--dl-color-gray-black);
     font-size: 11px;
   }
-  .enaofficialwebsit-works-text072 {
+  .enaofficialsit-works-text072 {
     color: var(--dl-color-gray-black);
     font-size: 11px;
   }
-  .enaofficialwebsit-works-text073 {
+  .enaofficialsit-works-text073 {
     font-size: 11px;
   }
-  .enaofficialwebsit-works-text074 {
+  .enaofficialsit-works-text074 {
     color: var(--dl-color-gray-black);
     font-size: 11px;
   }
-  .enaofficialwebsit-works-text075 {
+  .enaofficialsit-works-text075 {
     color: var(--dl-color-gray-black);
     font-size: 11px;
   }
-  .enaofficialwebsit-works-text076 {
+  .enaofficialsit-works-text076 {
     color: var(--dl-color-gray-black);
     font-size: 11px;
   }
-  .enaofficialwebsit-works-text077 {
+  .enaofficialsit-works-text077 {
     color: var(--dl-color-gray-black);
     font-size: 11px;
   }
-  .enaofficialwebsit-works-text078 {
+  .enaofficialsit-works-text078 {
     color: var(--dl-color-gray-black);
     font-size: 11px;
   }
-  .enaofficialwebsit-works-text085 {
+  .enaofficialsit-works-text085 {
     font-size: 14px;
     font-family: Shippori Antique;
     line-height: 2;
@@ -697,35 +680,35 @@
     margin-right: 2%;
     letter-spacing: 1px;
   }
-  .enaofficialwebsit-works-text086 {
+  .enaofficialsit-works-text086 {
     color: #000000;
     font-size: 11px;
   }
-  .enaofficialwebsit-works-text087 {
+  .enaofficialsit-works-text087 {
     color: #000000;
     font-size: 11px;
   }
-  .enaofficialwebsit-works-text088 {
+  .enaofficialsit-works-text088 {
     color: #000000;
     font-size: 11px;
   }
-  .enaofficialwebsit-works-text089 {
+  .enaofficialsit-works-text089 {
     color: #000000;
     font-size: 11px;
   }
-  .enaofficialwebsit-works-text090 {
+  .enaofficialsit-works-text090 {
     color: #000000;
     font-size: 11px;
   }
-  .enaofficialwebsit-works-text091 {
+  .enaofficialsit-works-text091 {
     color: #000000;
     font-size: 11px;
   }
-  .enaofficialwebsit-works-text092 {
+  .enaofficialsit-works-text092 {
     color: #000000;
     font-size: 11px;
   }
-  .enaofficialwebsit-works-text099 {
+  .enaofficialsit-works-text099 {
     font-size: 14px;
     font-family: Shippori Antique;
     line-height: 2;
@@ -733,97 +716,83 @@
     margin-right: 2%;
     letter-spacing: 1px;
   }
-  .enaofficialwebsit-works-text100 {
+  .enaofficialsit-works-text100 {
     color: #080808;
     font-size: 11px;
   }
-  .enaofficialwebsit-works-text101 {
+  .enaofficialsit-works-text101 {
     color: #080808;
     font-size: 11px;
   }
-  .enaofficialwebsit-works-text102 {
+  .enaofficialsit-works-text102 {
     color: #080808;
     font-size: 11px;
   }
-  .enaofficialwebsit-works-text103 {
+  .enaofficialsit-works-text103 {
     font-size: 11px;
   }
-  .enaofficialwebsit-works-footer {
+  .enaofficialsit-works-footer {
     height: auto;
     padding-left: var(--dl-space-space-twounits);
     padding-right: var(--dl-space-space-twounits);
     background-color: var(--dl-color-gray-white);
   }
-  .enaofficialwebsit-works-text105 {
+  .enaofficialsit-works-text105 {
     text-align: center;
     margin-left: var(--dl-space-space-unit);
     margin-right: var(--dl-space-space-unit);
   }
-  .enaofficialwebsit-works-text106 {
+  .enaofficialsit-works-text106 {
     text-align: center;
     margin-left: var(--dl-space-space-unit);
     margin-right: var(--dl-space-space-unit);
   }
 }
 @media(max-width: 479px) {
-  .enaofficialwebsit-works-header {
+  .enaofficialsit-works-header {
     padding: var(--dl-space-space-unit);
-    position: relative;
+    background-color: var(--dl-color-gray-white);
   }
-  .enaofficialwebsit-works-image {
+  .enaofficialsit-works-image {
     margin-right: 0px;
   }
-  .enaofficialwebsit-works-icon {
+  .enaofficialsit-works-icon {
     fill: #094bfb;
     width: var(--dl-size-size-small);
     height: var(--dl-size-size-small);
   }
-  .enaofficialwebsit-works-mobile-menu {
-    left: 0px;
-    right: 0px;
-    width: 100%;
-    height: auto;
-    margin: auto;
+  .enaofficialsit-works-mobile-menu {
+    width: 214px;
+    height: 304px;
     display: none;
     padding: 16px;
-    align-items: stretch;
   }
-  .enaofficialwebsit-works-nav1 {
-    align-items: center;
-  }
-  .enaofficialwebsit-works-icon2 {
-    fill: #094bfb;
-    width: 30px;
-    height: 30px;
-    border-color: var(--dl-color-gray-black);
-    border-width: 0px;
-  }
-  .enaofficialwebsit-works-image1 {
+  .enaofficialsit-works-image1 {
     width: 130px;
     margin-right: 15px;
   }
-  .enaofficialwebsit-works-text015 {
+  .enaofficialsit-works-text015 {
     font-size: 13px;
     margin-left: 2%;
     margin-right: 2%;
   }
-  .enaofficialwebsit-works-text038 {
+  .enaofficialsit-works-text038 {
     font-size: 13px;
     margin-left: 2%;
     margin-right: 2%;
   }
-  .enaofficialwebsit-works-text050 {
+  .enaofficialsit-works-text050 {
     font-size: 13px;
     margin-left: 2%;
     margin-right: 2%;
   }
-  .enaofficialwebsit-works-text085 {
+  .enaofficialsit-works-text085 {
     font-size: 13px;
     line-height: 1.8;
     margin-left: 2%;
     margin-right: 2%;
   }
-  .enaofficialwebsit-works-text099 {
+  .enaofficialsit-works-text099 {
     font-size: 13px;
     font-family: Shippori Antique;
     line-height: 1.8;
@@ -831,16 +800,16 @@
     margin-right: 2%;
     letter-spacing: 1px;
   }
-  .enaofficialwebsit-works-text100 {
+  .enaofficialsit-works-text100 {
     color: #080808;
   }
-  .enaofficialwebsit-works-text101 {
+  .enaofficialsit-works-text101 {
     color: #080808;
   }
-  .enaofficialwebsit-works-text102 {
+  .enaofficialsit-works-text102 {
     color: #080808;
   }
-  .enaofficialwebsit-works-footer {
+  .enaofficialsit-works-footer {
     height: auto;
     padding: var(--dl-space-space-unit);
     align-items: center;
@@ -848,12 +817,12 @@
     justify-content: center;
     background-color: var(--dl-color-gray-white1);
   }
-  .enaofficialwebsit-works-text105 {
+  .enaofficialsit-works-text105 {
     margin-left: 0px;
     margin-right: 0px;
     margin-bottom: var(--dl-space-space-unit);
   }
-  .enaofficialwebsit-works-text106 {
+  .enaofficialsit-works-text106 {
     margin-left: 0px;
     margin-right: 0px;
     margin-bottom: var(--dl-space-space-unit);

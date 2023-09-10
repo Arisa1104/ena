@@ -1,4 +1,4 @@
-.enaofficialwebsit-news-container {
+.enaofficialsit-news-container {
   width: 100%;
   display: flex;
   overflow: auto;
@@ -8,26 +8,25 @@
   justify-content: flex-start;
   background-image: linear-gradient(to right, #c2e59c 0%, #64b3f4 100%);
 }
-.enaofficialwebsit-news-header {
+.enaofficialsit-news-header {
   width: 100%;
-  height: auto;
   display: flex;
   align-self: center;
   align-items: center;
   justify-content: space-between;
   background-color: var(--dl-color-gray-white);
 }
-.enaofficialwebsit-news-navlink {
+.enaofficialsit-news-navlink {
   display: contents;
 }
-.enaofficialwebsit-news-image {
+.enaofficialsit-news-image {
   width: 138px;
   height: 133px;
   margin-left: 10px;
   margin-right: 10px;
   text-decoration: none;
 }
-.enaofficialwebsit-news-container1 {
+.enaofficialsit-news-container1 {
   flex: 0 0 auto;
   width: auto;
   height: auto;
@@ -35,7 +34,7 @@
   align-items: space-between;
   flex-direction: column;
 }
-.enaofficialwebsit-news-container2 {
+.enaofficialsit-news-container2 {
   flex: 0 0 auto;
   width: auto;
   height: auto;
@@ -43,21 +42,21 @@
   align-items: space-between;
   flex-direction: column;
 }
-.enaofficialwebsit-news-nav {
+.enaofficialsit-news-nav {
   flex: 0 0 auto;
   display: flex;
   align-items: center;
   flex-direction: row;
 }
-.enaofficialwebsit-news-burger-menu {
+.enaofficialsit-news-burger-menu {
   display: none;
 }
-.enaofficialwebsit-news-icon {
+.enaofficialsit-news-icon {
   width: var(--dl-size-size-xsmall);
   height: var(--dl-size-size-xsmall);
   display: flex;
 }
-.enaofficialwebsit-news-mobile-menu {
+.enaofficialsit-news-mobile-menu {
   top: 0px;
   left: 0px;
   width: 100%;
@@ -70,35 +69,35 @@
   justify-content: space-between;
   background-color: #fff;
 }
-.enaofficialwebsit-news-nav1 {
+.enaofficialsit-news-nav1 {
   display: flex;
   align-items: flex-start;
   flex-direction: column;
 }
-.enaofficialwebsit-news-container3 {
+.enaofficialsit-news-container3 {
   width: 100%;
   display: flex;
   align-items: center;
   margin-bottom: var(--dl-space-space-threeunits);
   justify-content: space-between;
 }
-.enaofficialwebsit-news-close-mobile-menu {
+.enaofficialsit-news-close-mobile-menu {
   display: flex;
   align-items: center;
   justify-content: center;
 }
-.enaofficialwebsit-news-icon2 {
+.enaofficialsit-news-icon2 {
   width: var(--dl-size-size-xsmall);
   height: var(--dl-size-size-xsmall);
 }
-.enaofficialwebsit-news-image1 {
+.enaofficialsit-news-image1 {
   width: 180px;
   align-self: center;
   margin-top: 10px;
   object-fit: cover;
   margin-right: 15px;
 }
-.enaofficialwebsit-news-footer {
+.enaofficialsit-news-footer {
   width: 100%;
   height: auto;
   display: flex;
@@ -110,118 +109,85 @@
   justify-content: center;
   background-color: var(--dl-color-gray-white);
 }
-.enaofficialwebsit-news-text {
+.enaofficialsit-news-text {
   color: #094bfb;
   font-family: Yuji Syuku;
 }
 @media(max-width: 991px) {
-  .enaofficialwebsit-news-header {
-    background-color: var(--dl-color-gray-white);
-  }
-  .enaofficialwebsit-news-footer {
+  .enaofficialsit-news-footer {
     background-color: var(--dl-color-gray-white);
   }
 }
 @media(max-width: 767px) {
-  .enaofficialwebsit-news-header {
+  .enaofficialsit-news-header {
     padding-left: var(--dl-space-space-twounits);
     padding-right: var(--dl-space-space-twounits);
   }
-  .enaofficialwebsit-news-image {
+  .enaofficialsit-news-image {
     margin-left: 0px;
     margin-right: 0px;
   }
-  .enaofficialwebsit-news-nav {
+  .enaofficialsit-news-nav {
     display: none;
   }
-  .enaofficialwebsit-news-burger-menu {
+  .enaofficialsit-news-burger-menu {
     display: flex;
     align-items: center;
     justify-content: center;
   }
-  .enaofficialwebsit-news-icon {
+  .enaofficialsit-news-icon {
     fill: #094bfb;
     width: var(--dl-size-size-small);
     height: var(--dl-size-size-small);
   }
-  .enaofficialwebsit-news-mobile-menu {
-    height: auto;
-    display: none;
-  }
-  .enaofficialwebsit-news-nav1 {
-    align-items: center;
-  }
-  .enaofficialwebsit-news-container3 {
-    margin-bottom: 20px;
-  }
-  .enaofficialwebsit-news-icon2 {
-    fill: #094bfb;
-    width: 30px;
-    height: 30px;
-  }
-  .enaofficialwebsit-news-footer {
+  .enaofficialsit-news-footer {
     padding-left: var(--dl-space-space-twounits);
     padding-right: var(--dl-space-space-twounits);
   }
-  .enaofficialwebsit-news-text {
+  .enaofficialsit-news-text {
     text-align: center;
     margin-left: var(--dl-space-space-unit);
     margin-right: var(--dl-space-space-unit);
   }
-  .enaofficialwebsit-news-text1 {
+  .enaofficialsit-news-text1 {
     text-align: center;
     margin-left: var(--dl-space-space-unit);
     margin-right: var(--dl-space-space-unit);
   }
 }
 @media(max-width: 479px) {
-  .enaofficialwebsit-news-header {
+  .enaofficialsit-news-header {
     padding: var(--dl-space-space-unit);
-    position: relative;
   }
-  .enaofficialwebsit-news-image {
+  .enaofficialsit-news-image {
     margin-right: 0px;
   }
-  .enaofficialwebsit-news-icon {
+  .enaofficialsit-news-icon {
     fill: #094bfb;
     width: var(--dl-size-size-small);
     height: var(--dl-size-size-small);
   }
-  .enaofficialwebsit-news-mobile-menu {
-    left: 0px;
-    right: 0px;
-    width: 100%;
-    height: auto;
-    margin: auto;
+  .enaofficialsit-news-mobile-menu {
+    width: 214px;
+    height: 304px;
     display: none;
     padding: 16px;
-    align-items: stretch;
   }
-  .enaofficialwebsit-news-nav1 {
-    align-items: center;
-  }
-  .enaofficialwebsit-news-icon2 {
-    fill: #094bfb;
-    width: 30px;
-    height: 30px;
-    border-color: var(--dl-color-gray-black);
-    border-width: 0px;
-  }
-  .enaofficialwebsit-news-image1 {
+  .enaofficialsit-news-image1 {
     width: 130px;
   }
-  .enaofficialwebsit-news-footer {
+  .enaofficialsit-news-footer {
     padding: var(--dl-space-space-unit);
     align-items: center;
     flex-direction: column;
     justify-content: center;
   }
-  .enaofficialwebsit-news-text {
+  .enaofficialsit-news-text {
     margin-left: 0px;
     margin-right: 0px;
     margin-bottom: var(--dl-space-space-unit);
   }
-  .enaofficialwebsit-news-text1 {
+  .enaofficialsit-news-text1 {
     margin-left: 0px;
     margin-right: 0px;
     margin-bottom: var(--dl-space-space-unit);
